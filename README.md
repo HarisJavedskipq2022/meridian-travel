@@ -5,7 +5,7 @@ offers four services: **visa services, flight tickets, hotel booking and car ren
 backed by mock data.
 
 - **Live site:** _add your Vercel URL here_
-- **Repository:** _add your GitHub URL here_
+- **Repository:** https://github.com/HarisJavedskipq2022/meridian-travel
 
 ## Tech stack
 
