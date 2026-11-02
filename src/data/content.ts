@@ -123,8 +123,8 @@ export const testimonials: Testimonial[] = [
 ];
 
 export const contact = {
-  phone: "+92 21 3456 7890",
-  whatsapp: "+92 300 123 4567",
+  phone: "+92 21 0000 0000",
+  whatsapp: "+92 300 000 0000",
   email: "hello@meridian.travel",
   address: "Office 1204, Ocean Tower, Clifton Block 9, Karachi",
   hours: "Mon – Sat, 9:00 to 19:00 PKT",

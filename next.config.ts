@@ -3,6 +3,7 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   cacheComponents: true,
   partialPrefetching: true,
+  agentRules: false,
   images: {
     remotePatterns: [{ protocol: "https", hostname: "images.unsplash.com" }],
     qualities: [70, 75, 85],

@@ -17,6 +17,7 @@ const body = Figtree({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://meridian-travel-rose.vercel.app"),
   title: {
     default: "Meridian Travel: visas, flights, hotels and car rental",
     template: "%s | Meridian Travel",
@@ -28,6 +29,7 @@ export const metadata: Metadata = {
     description: "Visas, flights, hotels and car rental, planned in one place.",
     type: "website",
   },
+  twitter: { card: "summary_large_image" },
 };
 
 export const viewport: Viewport = {

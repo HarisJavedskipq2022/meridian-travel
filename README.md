@@ -7,6 +7,8 @@ backed by mock data.
 - **Live site:** https://meridian-travel-rose.vercel.app
 - **Repository:** https://github.com/HarisJavedskipq2022/meridian-travel
 
+![Meridian Travel home page with the hero departure board and the flight search panel](docs/home.png)
+
 ## Tech stack
 
 | Area      | Choice                                                                             |

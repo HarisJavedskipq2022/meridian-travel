@@ -21,7 +21,7 @@ function validateContact(values: Values): Errors {
   if (values.name.trim().length < 2) errors.name = "Enter your name.";
   if (!isEmail(values.email)) errors.email = "Enter an email address like name@example.com.";
   if (values.phone && !isPhone(values.phone))
-    errors.phone = "Enter a phone number with country code, e.g. +92 300 1234567.";
+    errors.phone = "Enter a phone number with country code, e.g. +92 300 0000000.";
   if (!values.service) errors.service = "Choose what you need help with.";
   if (values.message.trim().length < 10) errors.message = "Tell us a little about the trip (at least 10 characters).";
   return errors;
