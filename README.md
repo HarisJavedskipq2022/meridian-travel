@@ -4,7 +4,7 @@ A premium, fully responsive travel agency website built for the Frontend Develop
 offers four services: **visa services, flight tickets, hotel booking and car rental**, each with a working search form
 backed by mock data.
 
-- **Live site:** _add your Vercel URL here_
+- **Live site:** https://meridian-travel-rose.vercel.app
 - **Repository:** https://github.com/HarisJavedskipq2022/meridian-travel
 
 ## Tech stack
